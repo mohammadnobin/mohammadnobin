@@ -12,7 +12,7 @@
 
 Hi, I’m **Md Nobin**, a passionate **Frontend Developer** and **MERN Stack Enthusiast** from Bangladesh 🇧🇩.  
 I love creating modern, responsive, and user-friendly web applications that make an impact.  
-When I’m not coding, I’m learning new technologies and helping aspiring developers grow. 🚀  
+When I’m not coding, I’m learning new technologies and helping aspiring developers grow.   
 
 ---
 
