@@ -25,7 +25,7 @@ When I’m not coding, I’m learning new technologies and helping aspiring deve
 
 <br />
 
-## 📌 Current Activities  
+##  Current Activities  
 
 - 🔭 I’m currently working on **MERN Stack Projects**  
 - 🌱 I’m learning **Advanced React**, **Next.js**, and **TypeScript**  
