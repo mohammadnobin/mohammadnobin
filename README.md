@@ -60,7 +60,7 @@ When I’m not coding, I’m learning new technologies and helping aspiring deve
 ---
 
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdnobin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
