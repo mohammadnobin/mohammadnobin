@@ -86,7 +86,7 @@ When I’m not coding, I’m learning new technologies and helping aspiring deve
 
 ---
 
-## 🌐 Connect With Me  
+##  Connect With Me  
 
 <div align="center">
   
