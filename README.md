@@ -1,4 +1,4 @@
-
+ 
 <div align="center">
   <img src="https://github.com/MdNobinfd/MdNobinfd/blob/main/images/Banner.png" alt="Banner" width="100%" height="auto">
 </div>
@@ -32,7 +32,7 @@ When I’m not coding, I’m learning new technologies and helping aspiring deve
 -  I’m learning **Advanced React**, **Next.js**, and **TypeScript**  
 -  Ask me about **React**, **Node.js**, **MongoDB**, **JavaScript**  
 -  My goal: **Mastering Frontend Development Best Practices**  
-- ⚡ Fun fact: I love building interactive web applications!  
+-  Fun fact: I love building interactive web applications!  
 
 ---
 
