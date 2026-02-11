@@ -79,7 +79,7 @@ When I’m not coding, I’m learning new technologies and helping aspiring deve
 ---
 
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mdnobin&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
