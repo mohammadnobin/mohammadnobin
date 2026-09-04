@@ -103,6 +103,6 @@ When I’m not coding, I’m learning new technologies and helping aspiring deve
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=120&section=footer&animation=fadeIn"/>
   
-💻 Happy Coding! Keep Building Amazing Things! 
+💻  Happy Coding! Keep Building Amazing Things! 
 </div>
 
